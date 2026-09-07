@@ -1,5 +1,5 @@
 # Hi, I'm Siraj Ahmed
-A passionate Computer Science student at Sukkur IBA University (2022–2026). I enjoy building practical software solutions and exploring the intersections of data science, AI, and full-stack development.
+A passionate Computer Science student at Sukkur IBA University . I enjoy building practical software solutions and exploring the intersections of data science, AI, and full-stack development.
 ### 🚀 What I Do
 📊 Work with Python, especially in data science using pandas, numpy, seaborn<br><br>💻 Develop applications in Java (Spring, JavaFX) and C++<br><br>🧠 Working on an AI-based Rainfall Prediction model using LSTM<br><br>📱 Build cross-platform mobile apps with React Native<br><br>📈 Analyze data for sustainability and financial models using Stata
 ### 🛠️ Projects
